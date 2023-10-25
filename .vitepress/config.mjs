@@ -61,7 +61,7 @@ export default withMermaid({
     ],
   },
   srcDir: "./src",
-  base: "/admin-template-document/",
+  // base: "/admin-template-document/",
   // your existing vitepress config...
   // optionally, you can pass MermaidConfig
   mermaid: {
